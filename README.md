@@ -20,15 +20,15 @@ Links
 ###Tests Runners
 * [Karma](http://karma-runner.github.io/)
 * [Intern](http://theintern.github.io/)
-* [Karma — Test Runner for JavaScript](http://www.youtube.com/watch?v=YG5DEzaQBIc)
-* [WebStorm 7 - Karma Integration](http://www.youtube.com/watch?v=oyWW_V4wALs)
+* [Karma — Test Runner for JavaScript (video)](http://www.youtube.com/watch?v=YG5DEzaQBIc)
+* [WebStorm 7 - Karma Integration (video)](http://www.youtube.com/watch?v=oyWW_V4wALs)
 
 ###Package Managers
 
 ####npm
 * [npm](http://npmjs.org/)   
-* [Модули для Node.JS](https://www.youtube.com/watch?v=g740J-RyoR4&index=5&list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)
-* [Приёмы работы с модулями](https://www.youtube.com/watch?v=xs6sSylr-88&index=6&list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)     
+* [Модули для Node.JS (video)](https://www.youtube.com/watch?v=g740J-RyoR4&index=5&list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)
+* [Приёмы работы с модулями (video)](https://www.youtube.com/watch?v=xs6sSylr-88&index=6&list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg)     
 * [Core Modules](https://nodejs.org/api/modules.html#modules_core_modules)
 * [File Modules](https://nodejs.org/api/modules.html#modules_file_modules)
 * [Loading from node_modules Folders](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
@@ -64,7 +64,7 @@ Links
 
 ###Result Environment
 * [commonJSDevEnvironment] (https://github.com/DmitryMakhnev/commonJSDevEnvironment)
-* [Create commonJSDevEnvironment Screencast]()
+* [Скринкаст о создании commonJSDevEnvironment (video)]()
 
 ###More tools
 * [effroi — browser events lib](https://github.com/francejs/effroi#device-oriented-)
