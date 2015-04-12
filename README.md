@@ -66,7 +66,7 @@ Links
 * [commonJSDevEnvironment] (https://github.com/DmitryMakhnev/commonJSDevEnvironment)
 * [Скринкаст о создании commonJSDevEnvironment (video)]()
 
-###More tools
+###More Tools
 * [effroi — browser events lib](https://github.com/francejs/effroi#device-oriented-)
 * [Protractor is an end-to-end test framework](http://angular.github.io/protractor/)
 * [Wallaby.js is an intelligent test runner for JavaScript](http://wallabyjs.com/)
