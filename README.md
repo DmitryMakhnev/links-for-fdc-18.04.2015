@@ -1,9 +1,9 @@
-[От экспериментов с инфраструктурой до внедрения в продакшен]()
+[От экспериментов с инфраструктурой до внедрения в продакшен](http://www.slideshare.net/DmitryMakhnev/ss-47138060)
 ------
 
 ###ok.ru Tools
+* [cssg](http://cssg.rocks/)
 * [sourcejs](http://sourcejs.com/)
-* [cssg](http://operatino.github.io/MCSS/modules/cssg/basic.html)
 
 ###Popular JavaScript testing frameworks
 * [Jasmine](http://jasmine.github.io/)
