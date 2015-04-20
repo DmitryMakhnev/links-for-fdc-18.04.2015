@@ -64,7 +64,6 @@
 
 ###Result Environment
 * [commonJSDevEnvironment] (https://github.com/DmitryMakhnev/commonJSDevEnvironment)
-* [Скринкаст о создании commonJSDevEnvironment (video)]()
 
 ###More Tools
 * [effroi — browser events lib](https://github.com/francejs/effroi#device-oriented-)
